@@ -4,5 +4,10 @@
   "formatter": {
     "indentStyle": "tab",
     "indentWidth": 4
+  },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "double"
+    }
   }
 }

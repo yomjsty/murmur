@@ -9,10 +9,13 @@
     "./convex": "./convex/*.ts"
   },
   "devDependencies": {
+    "@types/node": "^20.19.9",
     "@workspace/typescript-config": "workspace:*",
     "typescript": "latest"
   },
   "dependencies": {
+    "@convex-dev/better-auth": "^0.7.13",
+    "better-auth": "^1.3.4",
     "convex": "^1.25.4"
   }
 }
